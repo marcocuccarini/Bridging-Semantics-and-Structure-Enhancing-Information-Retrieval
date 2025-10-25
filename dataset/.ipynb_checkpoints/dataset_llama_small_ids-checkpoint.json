@@ -1,0 +1,254 @@
+[
+    {
+        "Nome del documento": "Palazzo Pitti",
+        "Paragrafo": "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly Renaissance, palace in Florence, Italy. It is situated on the south side of the River Arno in Pitti Square, a short distance from the Ponte Vecchio.",
+        "Risposta": "What geographical features does the Palazzo Pitti situate near?",
+        "id": 0
+    },
+    {
+        "Nome del documento": "Palazzo Pitti",
+        "Paragrafo": "\nThe core of the present palazzo dates from 1458 and was originally the town residence of Luca Pitti, an ambitious Florentine banker. Although inhabited for about four centuries by three dynasties—the Medici, Habsburg-Lorraine, and Savoy—the palace still bears the name of its first owner. In 1473, Luca Pitti died, leaving Filippo Brunelleschi's design unfinished; at the time, the building featured only three wide doors and a double row of seven windows on the façade.",
+        "Risposta": "What is the significance of the Palazzo Pitti still bearing the name of its first owner?",
+        "id": 1
+    },
+    {
+        "Nome del documento": "Palazzo Pitti",
+        "Paragrafo": "\nIn 1549, the palace, abandoned after Luca Pitti's death, was purchased by Eleonora di Toledo, wife of Cosimo I de' Medici, as a residence befitting the grandeur of the nascent Grand Duchy of Tuscany. Bartolomeo Ammannati, the Grand Duke's favorite architect, expanded the façade and the rear section of the palace. Additionally, the magnificent Boboli Gardens were created behind the palace, adding to its splendor.",
+        "Risposta": "What role did Eleonora di Toledo play in the history of the Palazzo Pitti?",
+        "id": 2
+    },
+    {
+        "Nome del documento": "Palazzo Pitti",
+        "Paragrafo": "\nIn the late 18th century, the Palazzo Pitti was used as a power base by Napoleon. It later served briefly as the principal royal palace of the newly united Italy. In 1919, King Victor Emmanuel III donated the palace and its contents to the Italian people.",
+        "Risposta": "What significant events have taken place at the Palazzo Pitti over time?",
+        "id": 3
+    },
+    {
+        "Nome del documento": "Palazzo Pitti",
+        "Paragrafo": "\nThe principal Palazzo Pitti block, often called the corps de logis, spans 32,000 square meters. The palace features a blend of Renaissance, late Mannerist, and Baroque influences, with the exterior characterized by colossal decorations, “Florentine arches,” and ashlar blocks symbolizing wealth. Over time, the interior was embellished with frescoes, stucco work, and intricate details by artists from various regions. Later architectural interventions included Rococo and Neoclassical elements, enhancing its spatial grandeur.",
+        "Risposta": "What are some of the notable architectural features that characterize the exterior and interior of the Palazzo Pitti?",
+        "id": 4
+    },
+    {
+        "Nome del documento": "Palazzo Pitti",
+        "Paragrafo": "\nThe palace became a great treasure house as generations of the Medici and subsequent dynasties amassed paintings, plates, jewelry, and luxurious possessions. Today, the Palazzo Pitti is the largest museum complex in Florence, divided into several principal galleries or museums.",
+        "Risposta": "What are some of the notable collections and treasures that can be found within the Palazzo Pitti?",
+        "id": 5
+    },
+    {
+        "Nome del documento": "Palazzo Pitti",
+        "Paragrafo": "\nThe Palazzo Pitti is open Tuesday through Sunday from 8:15 a.m. to 6:30 p.m. It is closed on Mondays, January 1, and December 25. Tickets cost 10 euros, with free admission for minors, people with disabilities, university students, and journalists.",
+        "Risposta": "What are the current opening hours and ticket policies for visiting the Palazzo Pitti?",
+        "id": 6
+    },
+    {
+        "Nome del documento": "Ponte Vecchio ",
+        "Paragrafo": "The Ponte Vecchio is a medieval stone closed-spandrel segmental arch bridge over the Arno, in Florence, Italy. It is the only bridge in Florence spared from destruction during World War II and is noted for the shops built along it, a practice that was once common on bridges. Initially, these shops were occupied by butchers, tanners, and farmers, but today they are home to jewellers, art dealers, and souvenir sellers.",
+        "Risposta": "What are some of the notable features and historical uses of the Ponte Vecchio in Florence, Italy?",
+        "id": 7
+    },
+    {
+        "Nome del documento": "Ponte Vecchio ",
+        "Paragrafo": "\nThe Ponte Vecchio's two neighboring bridges are the Ponte Santa Trinita and the Ponte alle Grazie. The bridge connects Via Por Santa Maria (Lungarno degli Acciaiuoli and Lungarno degli Archibusieri) to Via de' Guicciardini (Borgo San Jacopo and Via de' Bardi). Its name, meaning \"Old Bridge,\" was given when the Ponte alla Carraia was built and named Ponte Nuovo (\"New Bridge\") in contrast.",
+        "Risposta": "What are some of the notable neighboring bridges that are connected to the Ponte Vecchio in Florence?",
+        "id": 8
+    },
+    {
+        "Nome del documento": "Ponte Vecchio ",
+        "Paragrafo": "\nHistorically, the Ponte Vecchio played a central role in the city's road system, connecting Roman Florentia with the Via Cassia Nova, commissioned by Emperor Hadrian in 123 AD. Today, although closed to vehicular traffic, it remains a vital pedestrian link between major tourist areas, connecting Piazza del Duomo and Piazza della Signoria on one side with Palazzo Pitti and Santo Spirito in the Oltrarno on the other.",
+        "Risposta": "What is the historical significance of the Ponte Vecchio as part of Florence's road system?",
+        "id": 9
+    },
+    {
+        "Nome del documento": "Ponte Vecchio ",
+        "Paragrafo": "\nThe bridge has been listed as a national artistic heritage site since 1901 by the General Directorate of Antiquities and Fine Arts. Historians credit Taddeo Gaddi, a pupil of Giotto, with its reconstruction. Gaddi's design addressed structural issues caused by floods, improving water flow and ensuring the bridge's longevity.",
+        "Risposta": "What role did Taddeo Gaddi play in reconstructing the Ponte Vecchio?",
+        "id": 10
+    },
+    {
+        "Nome del documento": "Ponte Vecchio ",
+        "Paragrafo": "\nIn 1495, the municipality sold all the workshops on the bridge to private individuals. At that time, there were four workshops, and the new owners began modifying them by expanding, dividing, and advancing on the bridge stacks without considering symmetry or design unity. After severe floods in 1547 and 1557, the shop owners rebuilt their structures, further altering the bridge's symmetry.",
+        "Risposta": "What factors contributed to the alteration of Ponte Vecchio's original design over time?",
+        "id": 11
+    },
+    {
+        "Nome del documento": "Ponte Vecchio ",
+        "Paragrafo": "\nIn 1565, the Commune commissioned Giorgio Vasari to redesign the bridge's architecture. This project led to the creation of the Vasari Corridor, which transformed the bridge's appearance. The corridor introduced two different block heights, with the upstream side enclosed by a three-arched portico to support Vasari's aerial passage, while the central square on the other side remained open.",
+        "Risposta": "How did Giorgio Vasari's redesign of Ponte Vecchio affect its overall appearance and architecture?",
+        "id": 12
+    },
+    {
+        "Nome del documento": "Ponte Vecchio ",
+        "Paragrafo": "\nPonte Vecchio is located at the intersection of the historic districts of Santa Croce, Santo Spirito, and Santa Maria Novella. The stores located above the bridge share the same address.",
+        "Risposta": "What is the significance of Ponte Vecchio's location in Florence?",
+        "id": 13
+    },
+    {
+        "Nome del documento": "Santa Maria Novella",
+        "Paragrafo": "Santa Maria Novella is a church in Florence, Italy, situated opposite the city's main railway station, from which it takes its name, as well as the square and zone where it is located. It is the first great basilica in Florence in chronological order and serves as the city's principal Dominican church.",
+        "Risposta": "What is the significance of Santa Maria Novella's location in relation to the city's main railway station?",
+        "id": 14
+    },
+    {
+        "Nome del documento": "Santa Maria Novella",
+        "Paragrafo": "\nThe church, along with its adjoining cloister and chapter house, holds a wealth of art treasures and funerary monuments. Among the most notable are frescoes by masters of the Gothic and early Renaissance periods, financed by prominent Florentine families who secured funerary chapels on consecrated ground. The church was named Santa Maria Novella (\"New\") because it was built on the site of the 9th-century oratory of Santa Maria delle Vigne.",
+        "Risposta": "What is the significance and origin of the name \"Santa Maria Novella\"?",
+        "id": 15
+    },
+    {
+        "Nome del documento": "Santa Maria Novella",
+        "Paragrafo": "\nIn 1221, the site was assigned to the Dominican Order, who decided to construct a new church and adjoining cloister. The design was created by two Dominican friars, Fra Sisto Fiorentino and Fra Ristoro da Campi. Construction began around 1276 and lasted 80 years, culminating under Friar Iacopo Talenti with the completion of the Romanesque-Gothic bell tower and sacristy. In 1360, Gothic arcades intended to house sarcophagi were added to the façade. The church was consecrated in 1420.",
+        "Risposta": "What was the significance of the assignment of the site to the Dominican Order in 1221?",
+        "id": 16
+    },
+    {
+        "Nome del documento": "Santa Maria Novella",
+        "Paragrafo": "\nLeon Battista Alberti, commissioned by wealthy Florentine wool merchant Giovanni di Paolo Rucellai, designed the upper part of the façade between 1456 and 1470. This section is made of green marble from Prato, also known as \"serpentino,\" and white marble. Alberti, already renowned as the architect of the Tempio Malatestiano in Rimini and his treatise De re aedificatoria, sought to harmonize humanist architectural ideals with the existing medieval façade.",
+        "Risposta": "What are the influences that can be seen in Leon Battista Alberti's design for the Rucellai Palace?",
+        "id": 17
+    },
+    {
+        "Nome del documento": "Santa Maria Novella",
+        "Paragrafo": "\nAlberti's design introduced classical elements, such as a broad frieze adorned with squares and the entire upper section featuring four white-green pilasters, a round window, and a pediment with the Dominican solar emblem. Flanking this are large S-curved volutes that solved a longstanding architectural challenge of transitioning between wide and narrow storeys. These scrolls, unprecedented in antiquity, became a model for church architecture throughout Italy.",
+        "Risposta": "What architectural innovations did Leon Battista Alberti introduce through his design for the Rucellai Palace?",
+        "id": 18
+    },
+    {
+        "Nome del documento": "Piazzale Michelangelo",
+        "Paragrafo": "Piazzale Michelangelo (Michelangelo Square) is a square with a panoramic view of Florence, Italy, located in the Santo Spirito district. It was designed by architect Giuseppe Poggi and constructed in 1869 during the redevelopment of Oltrarno, the left (south) bank of the Arno River. This period of urban renewal, known as the Risanamento (Renovation), occurred when Florence was the capital of Italy.",
+        "Risposta": "What factors led to the redevelopment of the Oltrarno district in Florence during the mid-19th century?",
+        "id": 19
+    },
+    {
+        "Nome del documento": "Piazzale Michelangelo",
+        "Paragrafo": "\nThe redevelopment included the construction of riverside walkways (lungarni) on the Arno's banks. On the right bank, the medieval city walls were replaced with the Viali di Circonvallazione, six-lane tree-lined boulevards inspired by French design. On the left bank, the Viale dei Colli was created, an 8-kilometer-long, tree-lined avenue winding up the hill of San Miniato and culminating at Piazzale Michelangelo. The square was built as a broad terrace offering a panoramic view of the city.",
+        "Risposta": "What are the main features that resulted from the redevelopment of Florence's urban landscape during its time as the capital of Italy?",
+        "id": 20
+    },
+    {
+        "Nome del documento": "Piazzale Michelangelo",
+        "Paragrafo": "\nPiazzale Michelangelo is dedicated to the Renaissance sculptor Michelangelo and features bronze copies of some of his famous works, including the David and the four allegories of the times of day from the Medici Chapel of San Lorenzo.",
+        "Risposta": "What are the notable features that Piazzale Michelangelo has in honor of the artist Michelangelo?",
+        "id": 21
+    },
+    {
+        "Nome del documento": "Piazzale Michelangelo",
+        "Paragrafo": "\nThe terrace is dominated by a neoclassical-style loggia designed by Poggi. Originally intended as a museum to house works by Michelangelo, the loggia includes an epigraph in capital letters inscribed in the wall of the balcony, referencing the artist's legacy.",
+        "Risposta": "What architectural elements and features were included in the design of Piazzale Michelangelo?",
+        "id": 22
+    },
+    {
+        "Nome del documento": "Piazzale Michelangelo",
+        "Paragrafo": "\nThe view from Piazzale Michelangelo captures the heart of Florence, extending from Forte Belvedere to Santa Croce. It showcases the Arno River walkways, bridges such as the Ponte Vecchio, and landmarks including the Duomo, Palazzo Vecchio, the Bargello, and the octagonal bell tower of the Badia Fiorentina.",
+        "Risposta": "What are some of the notable landmarks that can be seen from Piazzale Michelangelo?",
+        "id": 23
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": "The town hall of Florence, Italy, overlooks the Piazza della Signoria, which holds a copy of Michelangelo's David statue, and the gallery of statues in the adjacent Loggia dei Lanzi.",
+        "Risposta": "What sculptures are featured on public display in Piazza della Signoria?",
+        "id": 24
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": " It is situated in the Santa Croce district.",
+        "Risposta": "What is the location of Piazzale Michelangelo?",
+        "id": 25
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": "\nOriginally named the Palazzo della Signoria after Florence's ruling body, the building has been known by other names such as Palazzo del Popolo, Palazzo dei Priori, and Palazzo Ducale, reflecting its diverse roles throughout history.",
+        "Risposta": "What are some of the notable names the Palazzo Vecchio has been known by over the years?",
+        "id": 26
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": " It became known as Palazzo Vecchio when the Medici moved their residence to the Palazzo Pitti across the Arno River.",
+        "Risposta": "What changes occurred in the name of the building after the Medici family relocated?",
+        "id": 27
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": "\nIn 1299, Florence's commune decided to construct a palace to reflect the city’s prominence and provide a secure seat for its magistrates.",
+        "Risposta": "What was the reason behind the construction of the Palazzo Vecchio in 1299?",
+        "id": 28
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": " Designed by Arnolfo di Cambio, the architect of the Duomo and Santa Croce, it was built on the ruins of the Uberti family's properties.",
+        "Risposta": "What is the significance of the location where the Palazzo Vecchio was built?",
+        "id": 29
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": " Historian Giovanni Villani noted that the Uberti were \"rebels of Florence and Ghibellines,\" and the site was chosen to prevent the family from rebuilding.",
+        "Risposta": "What motivated the decision to build the Palazzo Vecchio on this particular location?",
+        "id": 30
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": "\nThe building is made of solid, rusticated stone with two rows of Gothic two-lighted windows featuring trefoil arches.",
+        "Risposta": "What architectural features are characteristic of the Palazzo Vecchio?",
+        "id": 31
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": " In the 15th century, Michelozzo di Bartolomeo Michelozzi added bas-reliefs of the cross and Florentine lily between the arches.",
+        "Risposta": "What decorative elements were added to the Palazzo Vecchio during the 15th century?",
+        "id": 32
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": " It is crowned with crenellated battlements supported by arches and corbels.",
+        "Risposta": "What architectural features are used to top off the Palazzo Vecchio?",
+        "id": 33
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": " Under the arches are painted coats of arms of the Florentine republic.",
+        "Risposta": "What decorative elements adorn the arches under the Palazzo Vecchio?",
+        "id": 34
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": " Some arches also served as embrasures for defensive purposes.",
+        "Risposta": "What role did some arches under the Palazzo Vecchio serve for defense?",
+        "id": 35
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": "\nThe clock tower, named Torre d'Arnolfo after its designer, rises to 94 meters.",
+        "Risposta": "What architectural feature was added to the Palazzo Vecchio by Filippo Brunelleschi's design?",
+        "id": 36
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": " It incorporates an older tower and is not centered in the building.",
+        "Risposta": "What architectural feature was incorporated into the design of the Palazzo Vecchio?",
+        "id": 37
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": " The tower’s cells once held notable prisoners, including Cosimo de’ Medici (1435) and Girolamo Savonarola (1498).",
+        "Risposta": "What notable individuals were imprisoned in the tower's cells?",
+        "id": 38
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": " Its original clock, installed in 1353, was replaced in 1667 by a replica made by Georg Lederle of Augsburg.",
+        "Risposta": "What architectural feature was added to the Palazzo Vecchio in 1667?",
+        "id": 39
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": "\nIn 1540, Duke Cosimo I de' Medici moved his official seat to the Palazzo della Signoria, signifying Medici power.",
+        "Risposta": "What significant event marked the shift of power from a specific location in Florence?",
+        "id": 40
+    },
+    {
+        "Nome del documento": "Palazzo Vecchio ",
+        "Paragrafo": " After relocating to the Palazzo Pitti, he renamed his former residence the Palazzo Vecchio.",
+        "Risposta": "What was the consequence of Luca Pitti's relocation?",
+        "id": 41
+    }
+]
